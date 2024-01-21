@@ -31,7 +31,7 @@ while True:
         print(inputedList)
     elif menuInput == "!fast": # Quickly splits members into 2 teams
         randomedList = listRandomizer(inputedList)
-        print("List 1: " + str(randomedList[:int(len(randomedList)/2)]))
-        print("List 1: " + str(randomedList[int(len(randomedList)/2):]))
+        print("Team 1: " + str(randomedList[:int(len(randomedList)/2)]))
+        print("Team 2: " + str(randomedList[int(len(randomedList)/2):]))
     else:
         pass
