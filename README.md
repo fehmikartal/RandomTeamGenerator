@@ -1,7 +1,7 @@
 # RandomTeamGenerator
  RandomTeamGenerator, girdiğiniz listedeki üyeleri seçtiğiniz takım boyutlarına göre gruplandırır.
 
-• **"!fast"** komuduyla seçtiğiniz listedeki isimleri hızlıca ikiye ayırabilirsiniz.
+• **"!fast"** komuduyla seçtiğiniz listedeki isimleri hızlıca iki takıma ayırabilirsiniz.
 
 • **"!drawteam"** komuduyla seçtiğiniz sayıda kişi içeren takımlar oluşturur.
 
